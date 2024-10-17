@@ -1,0 +1,42 @@
+{
+  "node_modules/bootstrap-icons/font/bootstrap-icons.css": [
+    "/build/assets/bootstrap-icons-BtvjY1KL.woff2",
+    "/build/assets/bootstrap-icons-BOrJxbIo.woff"
+  ],
+  "node_modules/bootstrap/dist/css/bootstrap.min.css": [
+    "/build/assets/bootstrap-icons-BtvjY1KL.woff2",
+    "/build/assets/bootstrap-icons-BOrJxbIo.woff"
+  ],
+  "resources/css/app.css": [
+    "/build/assets/bootstrap-icons-BtvjY1KL.woff2",
+    "/build/assets/bootstrap-icons-BOrJxbIo.woff"
+  ],
+  "resources/js/Components/Common/BreadCrumb.tsx": [
+    "/build/assets/Home-dFKJ6VIf.js"
+  ],
+  "resources/js/Components/Common/Footer.tsx": [
+    "/build/assets/Home-dFKJ6VIf.js"
+  ],
+  "resources/js/Components/Common/Header.tsx": [
+    "/build/assets/Home-dFKJ6VIf.js"
+  ],
+  "resources/js/Components/Common/Sidebar.tsx": [
+    "/build/assets/Home-dFKJ6VIf.js"
+  ],
+  "resources/js/Components/Layout.tsx": [
+    "/build/assets/Home-dFKJ6VIf.js"
+  ],
+  "resources/js/Helpers/CommonHelper.ts": [
+    "/build/assets/Home-dFKJ6VIf.js"
+  ],
+  "resources/js/Pages/Auth/Login.tsx": [
+    "/build/assets/Login-m8mm3PSZ.js"
+  ],
+  "resources/js/Pages/Home.tsx": [
+    "/build/assets/Home-dFKJ6VIf.js"
+  ],
+  "resources/js/ssr.tsx": [
+    "/build/assets/bootstrap-icons-BtvjY1KL.woff2",
+    "/build/assets/bootstrap-icons-BOrJxbIo.woff"
+  ]
+}
